@@ -1,0 +1,27 @@
+.b1{
+    color: #5E3BEE;
+    border: #5E3BEE 1px solid;
+}
+.sp1{
+    color: #5E3BEE;
+}
+.create{
+    color: #282938 !important;
+ }
+ .bgb{
+    background-color: #5E3BEE;
+ }
+ .b1:hover{
+    color: #5E3BEE;
+border: #5E3BEE 1px solid;
+background-color: white;
+ }
+ .bgb:hover{
+    background-color: #5E3BEE;
+ }
+ .bg{
+    background-color: #F5FCFF;
+ }
+ .skillbg{
+background-color: #F5FCFF;
+ }
